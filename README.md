@@ -7,9 +7,9 @@
 1. On your Dashboard, click on the New Workspace button
 
 1. Paste in the URL you copied from GitHub earlier
-
+ 
 1. Click Create
-
+ 
 1. Wait for the workspace to open. This can take a few minutes.
 
 1. Open a new terminal and <code>pip3 install -r requirements.txt</code>
